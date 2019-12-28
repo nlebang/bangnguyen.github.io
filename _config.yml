@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Le Huy Bang Nguyen (Bang Nguyen)"
+title                    : "Bang Nguyen"
 title_separator          : "-"
 name                     : &name "Bang Nguyen"
 description              : &description "Electrical & Computer Engineering PhD Student, SPSC Lab, Clarkson University"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Bang Nguyen"
+  name             : "Le Huy Bang Nguyen"
   avatar           : "BangNguyen_photo.jpg"
   bio              : "Electrical & Computer Engineering PhD Student, SPSC Lab, Clarkson University"
   location         : "Potsdam, NY, USA"
